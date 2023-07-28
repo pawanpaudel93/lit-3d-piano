@@ -1,0 +1,7 @@
+node_modules
+lit-3d-piano
+.DS_Store
+dist
+types
+*.local
+dist
